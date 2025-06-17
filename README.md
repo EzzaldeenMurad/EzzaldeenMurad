@@ -1,4 +1,4 @@
-# 👨‍💻 Ezzaldeen Murad – Full-Stack Web Developer
+# Ezzaldeen Murad – Full-Stack Web Developer
 
 📍 Sana'a, Yemen  
 📧 ezzaldeenmurad@gmail.com  
